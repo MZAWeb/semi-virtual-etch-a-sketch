@@ -1,0 +1,13 @@
+{ "name"          :"virtualetchasketch",
+	"version"     :"0.0.1",
+	"description" :"",
+	"author"      :"Daniel Dvorkin <daniel@mzaweb.com>",
+	"main"        :".etch.js",
+	"dependencies":{
+		"serialport":"*",
+		"socket.io" :"*"
+	},
+	"engines"     :{
+		"node":"0.6"
+	}
+}
